@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# SQLite Database files
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+
+# Operating system files
+.DS_Store
+Thumbs.db
